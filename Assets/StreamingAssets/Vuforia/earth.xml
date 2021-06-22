@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="spider_1" size="10.000000 6.584010" />
+    <ImageTarget name="burjkhalifa_1" size="5.000000 7.891363" />
+    <ImageTarget name="solar_main_1" size="10.000000 6.498504" />
+    <ImageTarget name="thumb" size="5.000000 3.125000" />
+    <ImageTarget name="Taiwan" size="5.000000 3.331311" />
+    <ImageTarget name="fly" size="5.000000 4.704641" />
+    <ImageTarget name="clocks" size="5.000000 7.415991" />
+    <ImageTarget name="horses" size="5.000000 3.910156" />
+    <ImageTarget name="man-of-steel-cover" size="5.000000 7.407407" />
+  </Tracking>
+</QCARConfig>
